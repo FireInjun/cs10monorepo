@@ -1,0 +1,16 @@
+{
+  "name": "mongo-challenge",
+  "version": "1.0.0",
+  "description": "MongoDB Sprint Challenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Lambda School",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}
