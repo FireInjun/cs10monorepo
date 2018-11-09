@@ -8,6 +8,7 @@
 
 ### FSW File Tree
 
+```
 ├───*week01*
 │ ├───Responsive-Web-Design-II
 │ │ ├───css
@@ -226,11 +227,13 @@
 │ └───basic-javascript
 └───*week13*
 └───back-end-project-week
+```
 
 ---
 
 ### CS File Tree
 
+```
 ├───*week14*
 │ ├───Intro-Python
 │ │ └───src
@@ -358,3 +361,4 @@
 ├───GraphQL
 │ └───guides
 └───SQL
+```
