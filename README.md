@@ -8,7 +8,7 @@
 
 ### FSW File Tree
 
-├───week01
+├───*week01*
 │ ├───Responsive-Web-Design-II
 │ │ ├───css
 │ │ ├───design-files
@@ -22,7 +22,7 @@
 │ └───great-idea-website
 │ ├───css
 │ └───img
-├───week02
+├───*week02*
 │ ├───Bootstrap-I
 │ │ ├───css
 │ │ ├───img
@@ -49,7 +49,7 @@
 │ ├───img
 │ ├───js
 │ └───less
-├───week03
+├───*week03*
 │ ├───Javascript-I
 │ │ └───assignments
 │ ├───Javascript-II
@@ -60,7 +60,7 @@
 │ │ └───assignments
 │ └───Sprint-Challenge--Javascript
 │ └───challenges
-├───week04
+├───*week04*
 │ ├───Components-Jquery
 │ │ ├───components
 │ │ │ ├───Dropdown
@@ -98,7 +98,7 @@
 │ │ └───Topbar
 │ ├───CSS
 │ └───LESS
-├───week05
+├───*week05*
 │ ├───React-Friends
 │ ├───React-insta-clone
 │ │ └───assets
@@ -130,7 +130,7 @@
 │ ├───public
 │ └───src
 │ └───components
-├───week06
+├───*week06*
 │ ├───HTTP-AJAX
 │ ├───React-Router-Apple-Nav
 │ │ └───images
@@ -148,7 +148,7 @@
 │ ├───public
 │ └───src
 │ └───components
-├───week07
+├───*week07*
 │ ├───Redux-Counter
 │ │ ├───public
 │ │ └───src
@@ -171,10 +171,10 @@
 │ ├───actions
 │ ├───components
 │ └───reducers
-├───week08
+├───*week08*
 │ └───front-end-project-week
 │ └───front-end-project-designs
-├───week09
+├───*week09*
 │ ├───Node-Blog
 │ │ └───data
 │ │ ├───helpers
@@ -189,7 +189,7 @@
 │ ├───helpers
 │ ├───migrations
 │ └───seeds
-├───week10
+├───*week10*
 │ ├───mongo-bears
 │ │ └───bears
 │ ├───mongo-films
@@ -201,7 +201,7 @@
 │ │ ├───starships
 │ │ └───vehicles
 │ └───Sprint-Challenge-Mongo
-├───week11
+├───*week11*
 │ ├───auth-i
 │ ├───auth-ii
 │ └───Sprint-Challenge-Authentication
@@ -209,7 +209,7 @@
 │ ├───database
 │ │ └───migrations
 │ └───_secrets
-├───week12
+├───*week12*
 │ ├───React-Testing
 │ │ ├───public
 │ │ └───src
@@ -224,14 +224,14 @@
 │ └───Testing
 │ ├───advanced-javascript
 │ └───basic-javascript
-└───week13
+└───*week13*
 └───back-end-project-week
 
 ---
 
 ### CS File Tree
 
-├───week14
+├───*week14*
 │ ├───Intro-Python
 │ │ └───src
 │ │ ├───day-1-toy
@@ -241,7 +241,7 @@
 │ │ └───src
 │ └───Sprint-Challenge--Python-1
 │ └───src
-├───week15
+├───*week15*
 │ ├───Data-Structures
 │ │ ├───binary_search_tree
 │ │ ├───doubly_linked_list
@@ -255,7 +255,7 @@
 │ └───data_structures
 │ ├───ex_1
 │ └───ex_2
-├───week16
+├───*week16*
 │ ├───Graphs
 │ │ ├───guided-demo
 │ │ │ ├───graphs-1
@@ -277,7 +277,7 @@
 │ └───Sprint-Challenge--Graphs
 │ ├───graph_dfs_debug
 │ └───graph_shortest_path
-├───week17
+├───*week17*
 │ ├───secret-gists
 │ │ └───src
 │ ├───Sprint-Challenge--Security-Theory
@@ -295,7 +295,7 @@
 │ └───state-mach-regex
 │ ├───extractlinks
 │ └───phone
-├───week18
+├───*week18*
 │ ├───Intro-to-C
 │ │ ├───fizzbuzz
 │ │ │ └───tests
@@ -325,7 +325,7 @@
 │ └───Sprint-Challenge--Intro-C-Processes
 │ ├───examples
 │ └───lsls
-├───week19
+├───*week19*
 │ ├───C-Web-Server
 │ │ └───src
 │ ├───Multi-Level-Feedback-Queue
@@ -335,13 +335,13 @@
 │ │ └───tests
 │ └───Sprint-Challenge--OS-Scheduling
 │ └───lssh
-├───week20
+├───*week20*
 │ ├───Computer-Architecture
 │ │ ├───asm
 │ │ └───ls8
 │ │ └───examples
 │ └───Sprint-Challenge--Computer-Architecture
-├───week21
+├───*week21*
 │ ├───Django-RPG
 │ │ ├───armory
 │ │ │ └───migrations
@@ -354,7 +354,7 @@
 │ ├───Intro-Django
 │ │ └───guides
 │ └───Sprint-Challenge--Django-I
-└───week22
+└───*week22*
 ├───GraphQL
 │ └───guides
 └───SQL
